@@ -1,0 +1,27 @@
+Product:
+    css: div._fe1927d9e
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Name:
+            css: div.fde444d7ef
+            xpath: null
+            type: Text
+        Price:
+            css: span.fde444d7ef
+            xpath: null
+            type: Text
+        Image:
+            css: img.e75f1d9859
+            xpath: null
+            type: Attribute
+            attribute: src
+        Rating:
+            css: div._9c5f726ff.bd528f9ea6
+            xpath: null
+            type: Text
+        Limit:
+            css: div._4abc4c3d5._7ee1c7d14
+            xpath: null
+            type: Text

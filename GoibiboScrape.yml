@@ -1,0 +1,26 @@
+Product:
+    css: 'div:nth-of-type(n+3) div.HotelCardstyles__WrapperSectionMetaDiv-sc-1s80tyk-5'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Name:
+            css: 'a.HotelCardstyles__HotelNameSeoAnchor-sc-1s80tyk-16 span'
+            xpath: null
+            multiple: true
+            type: Text
+        Price:
+            css: p.HotelCardstyles__CurrentPrice-sc-1s80tyk-31
+            xpath: null
+            multiple: true
+            type: Text
+        Rating:
+            css: span.ReviewAndRatingsstyles__AverageReviewText-sc-1nxmeoo-8
+            xpath: null
+            multiple: true
+            type: Text
+        Limit:
+            css: span.HotelCardstyles__PerRoomNightTextWrapper-sc-1s80tyk-33
+            xpath: null
+            multiple: true
+            type: Text
